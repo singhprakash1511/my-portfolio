@@ -48,7 +48,7 @@ a{
 .nav-items a:hover{
     transition: all 0.2s ease-out allow-discrete;
     font-weight: 550;
-    color: rgb(199, 101, 65);
+    color: #343d64;
 }
 
 
@@ -419,7 +419,7 @@ a{
 
     @keyframes html {
         100%{
-            stroke-dashoffset: 47.2;
+            stroke-dashoffset: 0;
         }
     }
 
@@ -434,7 +434,7 @@ a{
 
     @keyframes css {
         100%{
-            stroke-dashoffset: 94.4;
+            stroke-dashoffset: 0;
         } 
     }
 
@@ -449,7 +449,7 @@ a{
 
     @keyframes js {
         100%{
-            stroke-dashoffset: 118;
+            stroke-dashoffset: 70.8;
         } 
     }
 
@@ -464,7 +464,7 @@ a{
 
     @keyframes react {
         100%{
-            stroke-dashoffset: 141.6;
+            stroke-dashoffset: 94.4;
         } 
     }
 
@@ -479,7 +479,7 @@ a{
 
     @keyframes tailwind {
         100%{
-            stroke-dashoffset: 47.2;
+            stroke-dashoffset: 0;
         } 
     }
 
@@ -654,7 +654,7 @@ a{
         }
 
         .nav-items{
-            background-color: #343d68;
+            background-color: rgb(199, 101, 65);
             position: fixed;
             top: 0;
             right: -200px;
@@ -940,7 +940,7 @@ a{
     }
 
     .nav-items{
-        background-color: #343d68;
+        background-color: rgb(199, 101, 65);
         position: fixed;
         top: 0;
         right: -300px;
